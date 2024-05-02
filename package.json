@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "signi-tea": "^1.0.0"
+  },
+  "name": "definft-tea",
+  "version": "4.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/defi-nfts/definft-tea.git"
+  },
+  "bugs": {
+    "url": "https://github.com/defi-nfts/definft-tea/issues"
+  },
+  "homepage": "https://github.com/defi-nfts/definft-tea#readme"
+}
